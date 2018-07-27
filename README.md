@@ -1,4 +1,4 @@
-# Computer-Architecture-Simulation-in-VHDL
+# 16bit Computer Architecture Simulation in VHDL
 This work is a simultion of a 16-bit computer architecture where ROM and RAM and all other stuff is available
 
 Some tips:
